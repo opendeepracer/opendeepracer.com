@@ -1,7 +1,7 @@
 - name: Home
   link: /
-- name: About us...
-  link: /about_us/
+- name: MrZamboni
+  link: /MrZamboni/
 - name: Blog
   link: /blog/
 - name: Github page
