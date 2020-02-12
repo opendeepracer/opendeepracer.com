@@ -1,0 +1,22 @@
+theme: jekyll-theme-minimal
+logo: /assets/img/logo.jpeg 
+
+paginate: 10
+plugins: [jekyll-paginate]
+paginate_path: "blog/:num/"
+
+title: Open Deepracer
+description: Open hardware and software DeepRacer
+
+timezone: Europe/Amsterdam
+future: true
+encoding: utf-8
+
+permalink: pretty
+markdown: kramdown
+show_downloads: false
+github:
+  is_project_page: false
+
+plugins:
+  - jekyll-sitemap

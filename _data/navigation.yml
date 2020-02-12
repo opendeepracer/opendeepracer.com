@@ -1,0 +1,14 @@
+- name: Home
+  link: /
+- name: About us...
+  link: /about_us/
+- name: Blog
+  link: /blog/
+- name: Github page
+  link: https://github.com/opendeepracer
+#- name: Twitter
+#  link: https://twitter.com/defconholland
+#- name: Facebook
+#  link: https://www.facebook.com/defconholland
+- name: RSS
+  link: /feed.xml
